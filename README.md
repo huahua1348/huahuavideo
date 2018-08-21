@@ -1,1 +1,2 @@
-https://dmm.yzyz.ml
+{"version":1.0,"url":[https://dmm.yzyz.ml]}
+
