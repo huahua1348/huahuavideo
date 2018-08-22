@@ -1,5 +1,5 @@
 {
-  "update_url"      : "https://github.com/huahua1348/huahuavideo/blob/master/huahua.apk",
+  "update_url"      : "https://github.com/huahua1348/huahuavideo/raw/master/huahua.apk",
   "update_content"  : "你有新的版本需要更新",
   "update_ver_code" : 1.1,
   "update_ver_name" : "1.1",
